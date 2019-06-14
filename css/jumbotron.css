@@ -1,0 +1,27 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.myblock {
+	font-weight: 300; 
+	float: left;
+	font-size: 64px;
+	line-height: 58px;
+}
+
+.circleblock {
+	    background-color: #00b1ba;
+    color: #ffffff;
+    width: 68px;
+    height: 68px;
+    text-align: center;
+    float: left;
+    margin-right: 32px;
+    font: 300 36px/68px 'Roboto Condensed', sans-serif;
+    border-radius: 500px;
+}
+
+figcaption {
+	display: block;
+}

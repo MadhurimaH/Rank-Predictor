@@ -1,0 +1,36 @@
+<style type="text/css">
+  			.page-header{
+  				color: white;
+  			}
+			
+			.carousel-inner > .item > img,
+          		.carousel-inner > .item > a > img 
+         		 {
+              			width: 70%;
+              			margin: auto;
+          		}
+
+  			.menubar{
+  				font-family: Arial, Helvetica, Sans-Serif;
+  				font-size: 17px;
+  				background: #333;
+  				padding: 12px -12px;
+  				color: #999;
+  				margin-right: 10px;
+  				text-decoration: none;
+  				border-radius: 3px;
+  				height: 50px;
+  				transition: background 1s linear 0s, color 1s linear 0s;
+  			}
+
+  			.menubar:hover{
+  				background: #D3D3D3;
+  				color: #FFF;
+  			}
+
+			.pic {
+				background-image: url("../img/a2.jpg");
+        background-size: 100%;
+			}
+  		
+ </style>
